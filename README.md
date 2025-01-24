@@ -1,4 +1,5 @@
 # **Project: Elderly Pedestrian Safety at Urban Intersections**
+This project was conducted by a group of students from CIEN E4011: Big Data Analytics in Transportation at Columbia University.
 
 ## **Project Description**
 This project dives into the challenges faced by elderly pedestrians when crossing urban intersections, focusing on Amsterdam Avenue and 106th Street. By analyzing traffic signals and pedestrian behaviors, we identified ways to make intersections safer and more accessible for older adults. Combining traffic data and surveys, we came up with actionable insights to improve safety and mobility.
