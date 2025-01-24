@@ -1,29 +1,28 @@
-# **Final Project: Evaluating the Effectiveness of Bike Lane Installations on Cyclist Safety in New York City**
+# **Project: Elderly Pedestrian Safety at Urban Intersections**
 
 ## **Project Description**
-This project aims to analyze the impact of bike lane installations on cyclist safety in New York City. The study evaluates whether adding bike lanes effectively reduces cyclist injuries and fatalities by leveraging extensive datasets detailing motor vehicle collisions and bike lane installations. 
+This project dives into the challenges faced by elderly pedestrians when crossing urban intersections, focusing on Amsterdam Avenue and 106th Street. By analyzing traffic signals and pedestrian behaviors, we identified ways to make intersections safer and more accessible for older adults. Combining traffic data and surveys, we came up with actionable insights to improve safety and mobility.
 
-## **Motivation**
-Cyclist safety is a growing concern in urban environments like NYC, where cycling is a standard mode of transport. Despite efforts to expand bike lanes, their effectiveness in reducing accidents remains unclear. This study investigates this issue by analyzing:
-- Trends in cyclist injuries and fatalities over time.
-- Relationships between bike lane installations and cyclist safety metrics.
+## **Objectives**
+1. Understand how traffic signal operations impact the safety and mobility of older pedestrians.
+2. Suggest practical infrastructure and signal changes to create senior-friendly urban spaces.
 
-## **Key Findings**
-1. **Data Insights**:
-   - While bike lane installations have increased, there is no consistent trend correlating them with reduced injuries or fatalities.
-   - Specific boroughs, like Manhattan, showed reduced collision rates in areas with new bike lanes, but others, such as Brooklyn and Queens, did not experience the same improvement.
+## **Key Insights**
+1. **Traffic Patterns**:
+   - Traffic flow at the intersection is dominated by vehicles, especially heading north and south.
+   - Older pedestrians are a smaller group but face higher risks due to slower walking speeds and mobility challenges.
 
-2. **Policy Implications**:
-   - Simply adding bike lanes may not be sufficient. Other measures, such as public awareness campaigns, enhanced traffic enforcement, and improved road design, are necessary.
+2. **Survey Results**:
+   - 89.5% of respondents said auditory traffic cues are helpful for crossing intersections.
+   - Many older pedestrians felt that crossing times were too short, highlighting the need for longer signal durations.
+
+3. **Recommendations**:
+   - Extend crossing times at busy intersections, especially during peak hours.
+   - Add pedestrian-friendly features like auditory signals, islands, and wider sidewalks to make intersections safer.
 
 ## **Data Sources**
-1. **Motor Vehicle Collisions Data**: NYC Open Data platform.
-2. **Bike Lane Installation Data**: NYC Department of Transportation.
+- **Traffic Data**: Video recordings capturing vehicle, cyclist, and pedestrian movements at the Amsterdam Avenue and 106th Street intersection.
+- **Survey Data**: Structured interviews with pedestrians aged 65 and older.
 
 ## **Team Members**
-- Shengwei Dai
-- Julia Moncayo von Hase
-- Bennett Jonathan
-- Nathan Tuil
-- Yuka Sogawa
-- David Vivish
+Shengwei Dai, Julia Moncayo von Hase, Bennett Jonathan, Nathan Tuil, Yuka Sogawa, David Vivish
